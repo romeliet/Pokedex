@@ -1,0 +1,22 @@
+{
+  "name": "Pokedex",
+  "version": "1.0.0",
+  "description": "It's a dex for pokemon",
+  "main": "index.html",
+  "scripts": {
+    "start": "node_modules/http-server/bin/http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romeliet/Pokedex.git"
+  },
+  "author": "Nantanapak",
+  "license": "MIT",
+  "bugs": {
+    "url": "git+https://github.com/romeliet/Pokedex/issues"
+  },
+  "homepage": "git+https://github.com/romeliet/Pokedex/Pokedex#readme",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
+}
